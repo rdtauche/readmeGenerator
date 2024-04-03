@@ -21,6 +21,7 @@
 
   ## Usage
   utilizing screencastify
+  https://drive.google.com/file/d/1mPc2qY7Lwr8-YcxURuCjRsgdeAXgKHfI/view
 
   ## Credits
   my professors at CU bootcamp kevin and charlie, google and stack overflow
