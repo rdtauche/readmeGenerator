@@ -37,6 +37,19 @@ const questions = () => {
     },
     {
         type: 'input',
+        name: 'description',
+        message: 'What is the overall description of this project?',
+        validate: nameInput => {
+            if (nameInput) {
+                return true;
+            } else {
+                console.log('Please enter the description for your project');
+                return false; 
+            }
+        }
+    }, 
+    {
+        type: 'input',
         name: 'userStory',
         message: 'What is the user story for this project?',
         validate: nameInput => {
